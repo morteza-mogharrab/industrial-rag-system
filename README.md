@@ -2,7 +2,10 @@
 
 **Industrial RAG System for Alberta Energy Regulator Compliance**
 
+![Industrial RAG System Architecture](industrial-rag-system.png)
+
 AI-powered multi-document retrieval system for AER directives, providing instant access to regulatory requirements, technical procedures, and compliance information.
+
 
 ---
 
